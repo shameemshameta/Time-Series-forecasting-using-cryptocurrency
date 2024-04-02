@@ -94,7 +94,7 @@ License
 -------
 
 This project is licensed under the [MIT License](LICENSE).
-Feel free to modify and use the code for your solar system visualization projects or educational purposes!
+Feel free to modify and use the code from my Dogecoin Time Series Analysis and Forecasting project for educational purposes!
 
 
 
